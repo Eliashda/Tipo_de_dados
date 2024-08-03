@@ -1,1 +1,1 @@
-# Tipo_de_dados
+# Repositorio da lista de exercicios de tipos de dados
